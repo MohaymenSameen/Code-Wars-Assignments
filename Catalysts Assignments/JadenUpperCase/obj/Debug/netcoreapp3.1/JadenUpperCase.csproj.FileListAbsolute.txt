@@ -1,0 +1,4 @@
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\JadenUpperCase\bin\Debug\netcoreapp3.1\JadenUpperCase.exe
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\JadenUpperCase\obj\Debug\netcoreapp3.1\JadenUpperCase.csprojAssemblyReference.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\JadenUpperCase\obj\Debug\netcoreapp3.1\JadenUpperCase.AssemblyInfoInputs.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\JadenUpperCase\obj\Debug\netcoreapp3.1\JadenUpperCase.AssemblyInfo.cs
