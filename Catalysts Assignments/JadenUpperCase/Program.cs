@@ -17,7 +17,6 @@ namespace JadenUpperCase
             {
                 char firstLetter = Char.ToUpper(word[0]);
                 newPhrase += firstLetter + word.Substring(1) + " ";
-
             }
             return newPhrase.Remove(newPhrase.Length - 1, 1);
         }

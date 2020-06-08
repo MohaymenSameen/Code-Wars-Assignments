@@ -1,0 +1,13 @@
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.csprojAssemblyReference.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.csproj.CoreCompileInputs.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.AssemblyInfoInputs.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.AssemblyInfo.cs
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.exe
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.deps.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.runtimeconfig.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.runtimeconfig.dev.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.dll
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\bin\Debug\netcoreapp3.1\high and Low.pdb
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.dll
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.pdb
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\high and Low\obj\Debug\netcoreapp3.1\high and Low.genruntimeconfig.cache
