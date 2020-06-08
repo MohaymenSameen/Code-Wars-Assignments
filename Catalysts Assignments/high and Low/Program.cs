@@ -12,19 +12,31 @@ namespace high_and_Low
         }
         void Start()
         {
+            /* Good Solution             
+             * public static string HighAndLow(string numbers)
+                {
+                var parsed = numbers.Split().Select(int.Parse);
+                return parsed.Max() + " " + parsed.Min();
+                }
+            */
             HighAndLow("6 7 5 2 6 73 0 9 -1");
             Console.ReadKey();
         }
-        void HighAndLow(string numbers)
+        string HighAndLow(string numbers)
         {
             string[] number = numbers.Split(' ');
-
+            int[] numArray = new int[number.Length];
+            int count = 0;
             foreach (String num in number)
             {
                 int newNum = int.Parse(num);
-                Console.WriteLine(newNum);
+                numArray[count] += newNum;
+                count++;
             }
-           // return string.Format(maxValue.ToString() + " " + minValue.ToString());
+            int maxValue = numArray.Max();
+            int minValue = numArray.Min();
+
+            return string.Format(maxValue.ToString() + " " + minValue.ToString());
         }
     }
 }
