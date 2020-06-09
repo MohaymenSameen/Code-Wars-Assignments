@@ -11,6 +11,9 @@ namespace Bit_counting
         }
         void Start()
         {
+            /*
+              return Convert.ToString(n, 2).Count(x => x == '1');
+             */
             CountBits(1234);
             Console.ReadKey();
         }
@@ -18,14 +21,10 @@ namespace Bit_counting
         {
             string binary = Convert.ToString(n, 2);            
             int count = 0;
-
             foreach (Char num in binary)
             {
-                count += num-48;
-                Console.WriteLine(count);
-            }
-            
-
+                count += num-48;                
+            }    
             return count;
         }
     }
