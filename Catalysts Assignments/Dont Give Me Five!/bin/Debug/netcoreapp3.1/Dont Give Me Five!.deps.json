@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dont Give Me Five!/1.0.0": {
+        "runtime": {
+          "Dont Give Me Five!.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dont Give Me Five!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

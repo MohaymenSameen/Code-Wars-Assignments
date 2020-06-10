@@ -1,0 +1,13 @@
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.exe
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.deps.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.runtimeconfig.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.runtimeconfig.dev.json
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.dll
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\bin\Debug\netcoreapp3.1\Dont Give Me Five!.pdb
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.csprojAssemblyReference.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.csproj.CoreCompileInputs.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.AssemblyInfoInputs.cache
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.AssemblyInfo.cs
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.dll
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.pdb
+C:\Users\lemon\OneDrive\Documents\GitHub\Code-Wars-Assignments\Catalysts Assignments\Dont Give Me Five!\obj\Debug\netcoreapp3.1\Dont Give Me Five!.genruntimeconfig.cache

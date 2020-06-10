@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JadenUpperCase", "JadenUppe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "high and Low", "high and Low\high and Low.csproj", "{F81D511B-7E42-4704-957F-4F36507E0985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit counting", "Bit counting\Bit counting.csproj", "{52D8AE2D-29E1-4E85-B01A-747F7EF69F6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit counting", "Bit counting\Bit counting.csproj", "{52D8AE2D-29E1-4E85-B01A-747F7EF69F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent bugger", "Persistent bugger\Persistent bugger.csproj", "{EF32A56E-0C84-4999-9C34-E8308417757D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dont Give Me Five!", "Dont Give Me Five!\Dont Give Me Five!.csproj", "{14BD8C4A-2CC8-4F74-ADCB-D6433AE2F8A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{52D8AE2D-29E1-4E85-B01A-747F7EF69F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52D8AE2D-29E1-4E85-B01A-747F7EF69F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52D8AE2D-29E1-4E85-B01A-747F7EF69F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF32A56E-0C84-4999-9C34-E8308417757D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF32A56E-0C84-4999-9C34-E8308417757D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF32A56E-0C84-4999-9C34-E8308417757D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF32A56E-0C84-4999-9C34-E8308417757D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BD8C4A-2CC8-4F74-ADCB-D6433AE2F8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BD8C4A-2CC8-4F74-ADCB-D6433AE2F8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BD8C4A-2CC8-4F74-ADCB-D6433AE2F8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BD8C4A-2CC8-4F74-ADCB-D6433AE2F8A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
