@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Dont_Give_Me_Five_
 {
@@ -17,19 +18,7 @@ namespace Dont_Give_Me_Five_
         }
         public static int DontGiveMeFive(int start, int end)
         {
-            int count = start;
-
-            for (int i = start; i <= end; i++)
-            {
-                Console.WriteLine(count);
-                count++;
-
-                string numbers = count.ToString();
-
-                
-                Console.WriteLine(numbers);
-            }
-            return count;
+            return Enumerable.Range(start, end - start + 1).Count(x => !x.ToString().Contains("5"));
         }
     }
 }
